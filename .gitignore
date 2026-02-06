@@ -1,0 +1,13 @@
+target/
+uploads/
+*.log
+compile_errors*.txt
+.mvn/
+mvnw
+mvnw.cmd
+.vscode/
+.idea/
+.DS_Store
+*.class
+*.jar
+*.war
